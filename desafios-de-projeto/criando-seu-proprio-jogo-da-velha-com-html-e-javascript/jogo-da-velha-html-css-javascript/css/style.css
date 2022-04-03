@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+:root {
+    --background: #fafafa;
+    --body-color: #555;
+    --font-color: #222;
+}
+
+.dark-mode:root{
+    --background: #212529;
+    --body-color: #899095;
+    --font-color: #dee2e6;
+
+}
+
+.background {
+    background-color: var(--background);
+    height: 100vh;
+    padding-top: 1px;
+}
+
+.title {
+    color: var(--font-color);
+    text-align: center;
+    font-size: 40px;
+    margin-top: 2%;
+}
+
+.display {
+    color: var(--body-color);
+    font-size: 25px;
+    text-align: center;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.hide {
+    display: none;
+}
+
+.container {
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    grid-template-rows: 33% 33% 33%;
+    max-width: 300px;
+
+}
+
+.tile {
+    border: 1px solid var(--font-color);
+    min-width: 100px;
+    min-height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    cursor: pointer;
+}
+
+.playerX {
+    color: #09C372;
+}
+
+.playerO {
+    color: #498AFB;
+}
+
+.controls {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1em;
+}
+
+.controls button {
+    color: var(--font-color);
+    padding: 8px;
+    border-radius: 8px;
+    border: none;
+    font-size: 25px;
+    margin-left: 1em;
+    cursor: pointer;
+}
+
+.restart {
+    background-color: #498AFB;
+}
+
+#reset {
+    background-color: #FF3860;
+}
+
+/*dark-mode button*/
+#switch{
+    margin: 1%;
+}
+
+.dark-mode-span{
+    color: var(--font-color);
+}

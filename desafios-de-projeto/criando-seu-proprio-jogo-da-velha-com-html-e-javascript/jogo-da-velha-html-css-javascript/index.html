@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <script defer src="js/script.js"></script>
+    <title>jogo da Velha</title>
+</head>
+<body>
+    <main class="background">
+        <label for="switch">
+            <input type="checkbox" id="switch"><span class="dark-mode-span">Modo Escuro</span>
+        </label>
+        <section class="title">
+            <h1>JOGO DA VELHA</h1>
+        </section>
+        <section class="display">
+            É a vez do jogador: <span class="display-player playerX">X</span>
+        </section>
+        <section class="container">
+            <div class="tile"></div>
+            <div class="tile"></div>
+            <div class="tile"></div>
+            <div class="tile"></div>
+            <div class="tile"></div>
+            <div class="tile"></div>
+            <div class="tile"></div>
+            <div class="tile"></div>
+            <div class="tile"></div>
+        </section>
+        <section class="display announcer hide"></section>
+        <section class="controls">
+            <button id="reset">Reiniciar</button>
+        </section>
+    </main>
+</body>
+</html>
