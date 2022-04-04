@@ -1,6 +1,6 @@
 Construindo página para internet com Bootstrap
 
-Indrodução ao Bootstrap
+1- Indrodução ao Bootstrap
 
 O QUE É O BOOTSTRAP 
 
@@ -11,6 +11,15 @@ Botstrap é um framework web com código-fonte aberto para desenvolvimento de si
 Possui uma vasta biblioteca de componentes que facilita e agiliza o desenvolvimento de páginas web.
 
 
+
+2 - Aprendendo a utilizar o Bootstrap na sua página WEB
+
+Outra definição para Bootstrap: 
+Um conjunto de estilo para classes e componentes.
+
+
+
 Links úteis:
 
-Para baixar o Bootstrap: https://getbootstrap.com/
+- Para baixar o Bootstrap: https://getbootstrap.com/
+- Documentação do Bootstrap: https://getbootstrap.com/docs/5.1/getting-started/introduction/
