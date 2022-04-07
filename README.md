@@ -17,6 +17,6 @@ Link do repositório: https://github.com/thaianealm/bootcamp-orbi-web-games-deve
 - JQuery
 - Figma
 
-Link para visualizar/jogar: 
+Link para visualizar/jogar: https://endearing-platypus-df20ed.netlify.app/
 
 Link do repositório: https://github.com/thaianealm/bootcamp-orbi-web-games-developer/tree/main/desafios-de-projeto/save-the-ocean-minha-versao-do-projeto-contruindo-seu-primeiro-jogo-de-naves
