@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="imgs/marginalia-saving-the-ocean.png" type="image/x-icon">
+    <link href="css/estilos.css" rel="stylesheet" type="text/css">
+    <script defer type="text/javascript" src="js/jquery-1.11.1.min.js"></script>
+    <script defer type="text/javascript" src="js/js.js"></script>
+    <script defer type="text/javascript" src="js/jquery-collision.min.js"></script>
+    <title>Ajude os animais marinhos</title>
+</head>
+<body>
+    <div id="container"> <!-- div container !-->
+
+        <div id="fundoGame"> <!-- div fundoGame !-->
+        
+            <div id="inicio" onclick="start()"><h1> Ajude os animais marinhos </h1> <!-- div inicio !-->
+            <p>Utilize a tecla W para movimentar a menina para cima, a tecla S para movimentar a menina para baixo e a tecla D para capturar os lixos. Resgate os peixes se aproximando deles.</p>
+            <button id="botao-iniciar">CLIQUE AQUI PARA INICIAR</button>
+            </div> <!-- Fim da div inicio !-->
+        </div> <!-- Fim da div fundoGame !-->
+
+        <h3 class="creditos"><a target="_blank" href="./creditos/creditos.html">Créditos</a></h3>
+        
+    </div> <!-- Fim da div container !-->
+
+<!-- Sons do jogo !-->
+<audio src="sons/bolha.mp3" preload="auto" id="somDisparo"></audio>
+<audio src="sons/bolhas.mp3" preload="auto" id="somExplosao"></audio>
+<audio src="sons/bensound-creativeminds.mp3" preload="auto" id="musica"></audio>
+<audio src="sons/bensound-thelounge.mp3" preload="auto" id="somGameover"></audio>
+<audio src="sons/pego.mp3" preload="auto" id="somPerdido"></audio>	
+<audio src="sons/resgatou.mp3" preload="auto" id="somResgate"></audio>
+</body>
+</html>

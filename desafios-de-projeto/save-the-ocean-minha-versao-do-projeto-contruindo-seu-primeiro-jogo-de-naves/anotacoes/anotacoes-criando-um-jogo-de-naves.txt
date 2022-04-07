@@ -1,0 +1,15 @@
+Criando um Jogo de Naves usando HTML5, CSS3, JavaScript, JQuery
+
+O que é JQuery
+jQuery é uma biblioteca de funções JavaScript que interage com o HTML, desenvolvida para simplificar os scripts interpretados no navegador do cliente. 
+jQuery é a mais popular das bibliotecas JavaScript. Fonte: Wikipédia
+
+AULA 6
+Criando a função game loop
+Game loop: é uma função que será executada constantemente.
+Dentro de game loop será chamada as demais funções que serão executadas constantemente. 
+Dessa forma, quando essa função for parada o jogo também irá parar.
+
+
+
+
