@@ -3,7 +3,10 @@ Aqui contém os desafios de código e os desafios de projeto do Bootcamp Órbi W
 
 # Desafios de Projeto
 ## Jogo da velha
-Jogo da velha feito com HTML, CSS e JavaScript
+### Tecnologias usadas
+- HTML5
+- CSS3
+- JavaScript
 
 Link para visualizar/jogar: https://imaginative-froyo-b76607.netlify.app/
 
