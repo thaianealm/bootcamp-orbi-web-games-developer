@@ -23,3 +23,14 @@ Link do repositório: https://github.com/thaianealm/bootcamp-orbi-web-games-deve
 Link para visualizar/jogar: https://endearing-platypus-df20ed.netlify.app/
 
 Link do repositório: https://github.com/thaianealm/bootcamp-orbi-web-games-developer/tree/main/desafios-de-projeto/save-the-ocean-minha-versao-do-projeto-contruindo-seu-primeiro-jogo-de-naves
+
+# Genius
+## Desafio de projeto: Criando seu jogo de memória estilo Genius
+## Tecnologias usadas
+- HTML5
+- CSS3
+- JavaScript
+
+Link para visualizar / jogar: https://resilient-granita-a97080.netlify.app/
+
+Link do repositório: https://github.com/thaianealm/bootcamp-orbi-web-games-developer/tree/main/desafios-de-projeto/criando-seu-jogo-de-memoria-estilo-genius
