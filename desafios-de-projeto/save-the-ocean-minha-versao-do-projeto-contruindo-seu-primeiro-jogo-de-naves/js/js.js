@@ -24,7 +24,7 @@ var TECLA = {
 var pontos=0;
 var salvos=0;
 var perdidos=0;
-var energiaAtual=3;
+var Atual=3;
 
 var somDisparo=document.getElementById("somDisparo");
 var somExplosao=document.getElementById("somExplosao");
