@@ -1,6 +1,6 @@
 # Space Shooter
 ## Desafio de projeto: Criando seu jogo no estilo Space Shooter
-
+<br/>
 <img src="https://i.ibb.co/D4v7nLb/print-space-shooter.png">
 
 ## 🛠 Tecnologias / Ferramentas usadas
