@@ -45,3 +45,10 @@ Link do repositório: https://github.com/thaianealm/bootcamp-orbi-web-games-deve
 - Figma
 
 Link do repositório: https://github.com/thaianealm/bootcamp-orbi-web-games-developer/tree/main/desafios-de-projeto/space-shooter
+<br/>
+<br/>
+# Atividades
+## Atividade: API "catAPI"
+Atividade: Criar uma página que carrega fotos aleatórias de gatinhos sempre que clicamos em um botão.
+
+Link do repositório: https://github.com/thaianealm/bootcamp-orbi-web-games-developer/tree/main/atividades/atividade-api-catapi
