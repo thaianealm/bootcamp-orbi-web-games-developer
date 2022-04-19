@@ -7,4 +7,4 @@ Atividade: Criar uma página que carrega fotos aleatórias de gatinhos sempre qu
 
 ## Demostração:
 
-<img src='./img/gif.gif'>
+<img src='https://i.picasion.com/pic92/1d568341a1dfa0478f023df306c235cd.gif'>
