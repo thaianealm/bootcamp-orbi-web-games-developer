@@ -55,3 +55,6 @@ Link do repositório: https://github.com/thaianealm/bootcamp-orbi-web-games-deve
 
 ## Orientação a Objetos - Atividade: Conta Bancária
 Link do repositório: https://github.com/thaianealm/bootcamp-orbi-web-games-developer/tree/main/atividades/atividade-conta-bancaria
+
+## Map, Filter e Reduce
+Link do repositório: https://github.com/thaianealm/bootcamp-orbi-web-games-developer/tree/main/atividades/atividade-map-filter-reduce
