@@ -47,6 +47,18 @@ Link do repositório: https://github.com/thaianealm/bootcamp-orbi-web-games-deve
 Link do repositório: https://github.com/thaianealm/bootcamp-orbi-web-games-developer/tree/main/desafios-de-projeto/space-shooter
 <br/>
 <br/>
+
+## Desafio de projeto: Recriando o famoso jogo do dinossauro sem internet
+## Tecnologias usadas
+
+- HTML5
+- CSS3
+- JavaScript
+
+Link do repositório: https://github.com/thaianealm/bootcamp-orbi-web-games-developer/tree/main/desafios-de-projeto/recriando-o-famoso-jogo-do-dinossauro-sem-internet/dino-game
+<br/>
+<br/>
+
 # Atividades
 ## Atividade: API "catAPI"
 Atividade: Criar uma página que carrega fotos aleatórias de gatinhos sempre que clicamos em um botão.
