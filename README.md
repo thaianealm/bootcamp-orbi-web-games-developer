@@ -70,3 +70,7 @@ Link do repositório: https://github.com/thaianealm/bootcamp-orbi-web-games-deve
 
 ## Map, Filter e Reduce
 Link do repositório: https://github.com/thaianealm/bootcamp-orbi-web-games-developer/tree/main/atividades/atividade-map-filter-reduce
+
+## Desafio JQuery Accordion
+Link do repositório: https://github.com/thaianealm/bootcamp-orbi-web-games-developer/tree/main/atividades/desafio-jquery-accordion
+
